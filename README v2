@@ -1,0 +1,17 @@
+# Sales Tracker (Python CLI App)
+
+This is a beginner Python project that allows users to:
+- Add sales
+- View sales
+- Calculate total profit
+- Exit program
+
+## Features
+- Uses lists and dictionaries to store data
+- Uses loops and conditionals for interaction
+- Calculates profit dynamically
+
+## What I learned
+- Python basics (input, loops, if statements)
+- Data structures (lists and dictionaries)
+- Program flow and user interaction

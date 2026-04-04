@@ -1,0 +1,7 @@
+- input() = gets user input
+- float() = converts to number
+- list = stores multiple items
+- dictionary = stores structured data
+- append() = adds item to list
+- for loop = loops through data
+- if = decision making
